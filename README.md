@@ -24,7 +24,7 @@ how software works beneath high-level abstractions.
 
 C++
 C
-Rust (Learning)
+Rust
 Linux
 Git
 gRPC
@@ -32,5 +32,5 @@ PostgreSQL
 
 ## Find Me
 
-LinkedIn
-Portfolio
+LinkedIn: www.linkedin.com/in/-arham
+
