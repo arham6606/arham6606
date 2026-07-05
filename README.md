@@ -13,10 +13,11 @@ Exploring how computers work from memory and operating systems to scalable backe
 ---
 
 ## About Me
+## About
 
-I'm a Computer Engineering student with a strong interest in **backend engineering**, **systems programming**, and **distributed systems**.
+I'm a Computer Engineering student at the Information Technology University (ITU), Pakistan, with a strong interest in backend engineering, systems programming, and distributed systems.
 
-I enjoy understanding how software works beneath high-level abstractions—exploring memory management, operating systems, networking, concurrency, and the internals of modern computing systems through hands-on projects.
+My work focuses on understanding how software interacts with operating systems, memory, networks, and hardware while building practical systems in C++ and related technologies.
 
 My goal is to build production-quality backend software while developing a deep understanding of Linux and large-scale infrastructure.
 
@@ -36,36 +37,38 @@ My goal is to build production-quality backend software while developing a deep 
 
 [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 
-**Currently working with:** gRPC • Protocol Buffers
+**Working with:** gRPC • Protocol Buffers
 
 ### Embedded
 
 STM32 • Arduino • SolidWorks
 
 ---
+## Engineering Journey
 
-## Currently Building
+Projects and studies throughout my engineering journey include:
 
-- 🚀 Multithreaded Key-Value Store
-- 🌐 Production-style C++ gRPC User Microservice
-- 📚 Systems Engineering Notes (CSAPP)
-- 💻 Backend Engineering Portfolio
+- Production-style backend systems in C++
+- Distributed systems concepts
+- Embedded systems using STM32 and Arduino
+- Systems programming experiments
+- Technical notes from Computer Systems: A Programmer's Perspective
 
 ---
+## Areas of Interest
 
-## Currently Learning
-
-- Linux System Programming
+- Backend Engineering
+- Systems Programming
+- Linux
 - Operating Systems
 - Computer Networks
-- Concurrency & Multithreading
 - Distributed Systems
-
+- Performance Engineering
 ---
 
 ## Featured Projects
 
-### Multithreaded Key-Value Store *(In Progress)*
+### Multithreaded Key-Value Store
 
 A thread-safe in-memory database written in C++ to explore synchronization, networking, storage design, and scalable backend architectures.
 
@@ -97,13 +100,19 @@ STM32-based embedded system integrating sensors, UART communication, interrupts,
 
 ---
 
-## Current Goal
+## Engineering Philosophy
 
-Build production-style backend systems that strengthen my understanding of networking, concurrency, operating systems, and scalable infrastructure.
+I believe strong software is built on strong fundamentals.
 
+Rather than relying solely on frameworks, I enjoy understanding how systems work internally—from memory management and operating systems to networking and distributed services—and applying those principles while building software.
+
+---
+## Long-Term Focus
+
+To build reliable backend infrastructure and distributed systems while continuously strengthening my understanding of operating systems, networking, concurrency, and computer architecture.
 ---
 
 ## Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/-arham
-- 📧 Email: your_email@example.com
+- 📧 Email: muhammad.arham.raj@gmail.com
