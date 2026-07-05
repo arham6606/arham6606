@@ -22,6 +22,11 @@ My long-term objective is to design reliable backend infrastructure while contin
 
 ---
 
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arham6606&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arham6606&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
 # Technologies
 
 ### Languages
@@ -97,6 +102,12 @@ I believe understanding how systems work internally leads to better engineering 
 Engineering, for me, is about continuously learning how computers work—from hardware interfaces and embedded systems to operating systems and distributed backend services. I enjoy documenting what I learn, building projects that reinforce first-principles thinking, and sharing that journey with the engineering community.
 
 ---
+
+# 📚 Reading
+
+- Computer Systems: A Programmer's Perspective
+- Linux System Programming
+- Designing Data-Intensive Applications *(planned)*
 
 # Connect
 
