@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1000&pause=500&center=true&width=500&lines=Backend+%26+Infrastructure+Engineer;Systems+Programming+Enthusiast;Building+Production-Style+C%2B%2B+Systems;Learning+Linux%2C+Networking+%26+Distributed+Systems)](https://git.io/typing-svg)
+
+
+
 # Muhammad Arham
 
 **Computer Engineering Student @ Information Technology University (ITU), Pakistan**
