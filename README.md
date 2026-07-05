@@ -13,7 +13,6 @@ Exploring how computers work from memory and operating systems to scalable backe
 ---
 
 ## About Me
-## About
 
 I'm a Computer Engineering student at the Information Technology University (ITU), Pakistan, with a strong interest in backend engineering, systems programming, and distributed systems.
 
