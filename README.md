@@ -6,7 +6,7 @@
 
 **Computer Engineering Student @ Information Technology University (ITU), Pakistan**
 
-Exploring how computers work—from memory and operating systems to scalable backend systems.
+Exploring how computers work from memory and operating systems to scalable backend systems.
 
 </div>
 
