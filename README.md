@@ -22,10 +22,12 @@ My long-term objective is to design reliable backend infrastructure while contin
 
 ---
 
+---
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=arham6606&show_icons=true&theme=github_dark&hide_border=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arham6606&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
+---
 
 # Technologies
 
@@ -103,11 +105,13 @@ Engineering, for me, is about continuously learning how computers work—from ha
 
 ---
 
+---
 # 📚 Reading
 
 - Computer Systems: A Programmer's Perspective
 - Linux System Programming
 - Designing Data-Intensive Applications *(planned)*
+---
 
 # Connect
 
