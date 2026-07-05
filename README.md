@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Muhammad Arham
 
-<!--
-**arham6606/arham6606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at ITU, Pakistan.
 
-Here are some ideas to get you started:
+I'm passionate about building backend systems and understanding
+how software works beneath high-level abstractions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- Backend Engineering
+- Distributed Systems
+- Linux
+- Operating Systems
+- Networking
+- Systems Programming
+
+## Current Focus
+
+- Building a multithreaded key-value store
+- Reading Computer Systems: A Programmer's Perspective
+- Learning Linux system programming
+
+## Tech Stack
+
+C++
+C
+Rust (Learning)
+Linux
+Git
+gRPC
+PostgreSQL
+
+## Find Me
+
+LinkedIn
+Portfolio
