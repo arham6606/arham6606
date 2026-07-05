@@ -1,36 +1,103 @@
-# Hi, I'm Muhammad Arham
+# Muhammad Arham
 
-Computer Engineering student at ITU, Pakistan.
+**Computer Engineering Student @ Information Technology University (ITU), Pakistan**
 
-I'm passionate about building backend systems and understanding
-how software works beneath high-level abstractions.
+Aspiring **Backend & Infrastructure Engineer** with a strong interest in systems programming, distributed systems, Linux, networking, and operating systems.
 
-## Interests
+I enjoy building software close to the system, understanding how programs interact with memory, the operating system, and hardware rather than treating them as black boxes.
 
-- Backend Engineering
-- Distributed Systems
-- Linux
+---
+
+## Currently Building
+
+- Multithreaded Key-Value Store
+- Production-style C++ gRPC Microservice
+- Backend Engineering Portfolio
+- Technical notes from *Computer Systems: A Programmer's Perspective*
+
+---
+
+## Currently Learning
+
+- Linux System Programming
 - Operating Systems
-- Networking
-- Systems Programming
+- Computer Networks
+- Distributed Systems
+- Concurrency & Multithreading
 
-## Current Focus
-
-- Building a multithreaded key-value store
-- Reading Computer Systems: A Programmer's Perspective
-- Learning Linux system programming
+---
 
 ## Tech Stack
 
-C++
-C
-Rust
-Linux
-Git
-gRPC
-PostgreSQL
+### Languages
 
-## Find Me
+- C++
+- C
+- Rust 
 
-LinkedIn: www.linkedin.com/in/-arham
+### Systems
 
+- Linux
+- Git
+- CMake
+
+### Backend
+
+- gRPC
+- PostgreSQL
+
+### Embedded
+
+- STM32
+- Arduino
+- SolidWorks
+
+---
+
+## Featured Projects
+
+### Multithreaded Key-Value Store *(In Progress)*
+
+A thread-safe in-memory database built in C++ to explore concurrency, synchronization, networking, and scalable backend system design.
+
+---
+
+### C++ gRPC User Microservice
+
+Production-style backend microservice using:
+
+- C++
+- gRPC
+- Protocol Buffers
+- PostgreSQL
+
+---
+
+### Multi-Zone Fire Detection & Suppression System
+
+STM32-based embedded system integrating sensors, interrupts, UART communication, and hardware control.
+
+---
+
+## Engineering Interests
+
+- Backend Engineering
+- Infrastructure
+- Systems Programming
+- Linux Internals
+- Computer Architecture
+- Networking
+- Distributed Systems
+- Performance Optimization
+
+---
+
+## Current Goal
+
+Become a Backend & Infrastructure Engineer by building production-style systems and developing a strong understanding of how modern software operates from the operating system to distributed services.
+
+---
+
+## Connect
+
+- LinkedIn: www.linkedin.com/in/-arham
