@@ -6,7 +6,7 @@
 
 **Computer Engineering Student @ Information Technology University (ITU), Pakistan**
 
-Building systems from bytes to backend.
+Exploring how computers work—from memory and operating systems to scalable backend systems.
 
 </div>
 
