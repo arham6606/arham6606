@@ -189,7 +189,6 @@ If you're interested in backend engineering, systems programming, Linux, distrib
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
 
 **Build • Debug • Learn • Repeat**
 
