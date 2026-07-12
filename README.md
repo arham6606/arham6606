@@ -9,9 +9,8 @@
 > *Exploring computers from silicon to scalable backend services.*
 
 <br>
-
-<a href="www.linkedin.com/in/-arham">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/-arham">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:muhammad.arham.raj@gmail.com">
@@ -170,11 +169,10 @@ Next on the roadmap:
 If you're interested in backend engineering, systems programming, Linux, distributed systems, or just enjoy discussing how computers work under the hood, I'd be happy to connect.
 
 <p align="center">
-
-<a href="www.linkedin.com/in/-arham">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/-arham">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
+  
 <a href="mailto:muhammad.arham.raj@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
