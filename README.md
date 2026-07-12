@@ -164,6 +164,12 @@ Next on the roadmap:
 
 ---
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arham6606&theme=github-dark&hide_border=true"/>
+
+</div>
+
 # Let's Connect
 
 If you're interested in backend engineering, systems programming, Linux, distributed systems, or just enjoy discussing how computers work under the hood, I'd be happy to connect.
