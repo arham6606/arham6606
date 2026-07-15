@@ -167,8 +167,6 @@ Next on the roadmap:
 
 </div>
 
-can you make this so my total contribution since my github account is created can be displayed
-
 # Let's Connect
 
 If you're interested in backend engineering, systems programming, Linux, distributed systems, or just enjoy discussing how computers work under the hood, I'd be happy to connect.
