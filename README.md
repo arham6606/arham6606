@@ -152,17 +152,13 @@ Next on the roadmap:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arham6606&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=arham6606&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arham6606&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=arham6606&layout=compact&theme=github_dark&hide_border=true"/>
 
-<br>
-
-<img src="https://streak-stats.demolab.com?user=arham6606&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
+</div>---
 
 <div align="center">
 
