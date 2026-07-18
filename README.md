@@ -150,14 +150,6 @@ Next on the roadmap:
 
 # GitHub Activity
 
-<div align="center">
-
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=arham6606&theme=github-dark-blue&hide_border=true"/>
-
-</div>
 
 ---
 
